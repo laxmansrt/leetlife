@@ -7,15 +7,15 @@
 - Easy: 4
 - Medium: 2
 - Hard: 2
-- Languages: Java, C++, Python, mysql
-- Last Updated: 2026-10-05 13:44:25 UTC
-- Latest Solved: Rising Temperature (Easy)
+- Languages: Java, C++, Python, SQL
+- Last Updated: 2026-10-05 14:13:52 UTC
+- Latest Solved: Unknown (Unknown)
 
 ## Progress
 | # | Problem | Difficulty | Languages | Platform |
 |---|---------|------------|-----------|----------|
 | 1 | Find The Index Of The First Occurrence In A String | Easy | C++ | LeetCode |
-| 2 | Rising Temperature | Easy | mysql | Leetcode |
+| 2 | Rising Temperature | Easy | SQL | LeetCode |
 | 3 | Sqrtx | Easy | Java | LeetCode |
 | 4 | Two Sum | Easy | C++, Java | LeetCode |
 | 5 | Add Two Numbers | Medium | C++ | LeetCode |
