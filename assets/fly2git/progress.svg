@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 220" width="440" height="220" role="img" aria-label="Fly2Git Coding Progress">
+  <title>Fly2Git Coding Progress</title>
+  <desc>12 Problems Solved (Easy: 4, Medium: 2, Hard: 2)</desc>
+  <defs>
+    <linearGradient id="titaniumBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e131b" />
+      <stop offset="100%" stop-color="#161b24" />
+    </linearGradient>
+    <linearGradient id="pillEasy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b2e23" />
+      <stop offset="100%" stop-color="#14241b" />
+    </linearGradient>
+    <linearGradient id="pillMed" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#312513" />
+      <stop offset="100%" stop-color="#241a0b" />
+    </linearGradient>
+    <linearGradient id="pillHard" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#351a1b" />
+      <stop offset="100%" stop-color="#271011" />
+    </linearGradient>
+  </defs>
+  <style>
+    .card { fill: url(#titaniumBg); stroke: #2a3443; stroke-width: 1px; rx: 12px; }
+    .brand { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 700; fill: #e5a93c; letter-spacing: 1.5px; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 500; fill: #8b949e; letter-spacing: 0.5px; }
+    .stat-hero { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 700; fill: #f0f6fc; }
+    .stat-hero-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500; fill: #8b949e; }
+    .pill-easy-bg { fill: url(#pillEasy); stroke: #234832; stroke-width: 1px; rx: 8px; }
+    .pill-med-bg { fill: url(#pillMed); stroke: #4e3919; stroke-width: 1px; rx: 8px; }
+    .pill-hard-bg { fill: url(#pillHard); stroke: #522224; stroke-width: 1px; rx: 8px; }
+    .pill-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 600; letter-spacing: 0.5px; }
+    .pill-val { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; fill: #f0f6fc; }
+    .label-easy { fill: #3fb950; }
+    .label-med { fill: #d29922; }
+    .label-hard { fill: #f85149; }
+    .lang-header { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 600; fill: #6e7681; letter-spacing: 0.5px; }
+    .lang-body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 11px; fill: #c9d1d9; }
+  </style>
+  <rect width="440" height="220" class="card" />
+  <g transform="translate(24, 28)">
+    <text x="0" y="0" class="brand">FLY2GIT</text>
+    <text x="75" y="0" class="title">CODING PROGRESS</text>
+  </g>
+  <g transform="translate(24, 68)">
+    <text x="0" y="0" class="stat-hero">12</text>
+    <text x="42" y="-4" class="stat-hero-label">Problems Solved</text>
+  </g>
+  <g transform="translate(24, 96)">
+    <!-- Easy Pill -->
+    <g transform="translate(0, 0)">
+      <rect width="122" height="42" class="pill-easy-bg" />
+      <text x="12" y="18" class="pill-label label-easy">EASY</text>
+      <text x="12" y="34" class="pill-val">4</text>
+    </g>
+    <!-- Medium Pill -->
+    <g transform="translate(134, 0)">
+      <rect width="122" height="42" class="pill-med-bg" />
+      <text x="12" y="18" class="pill-label label-med">MEDIUM</text>
+      <text x="12" y="34" class="pill-val">2</text>
+    </g>
+    <!-- Hard Pill -->
+    <g transform="translate(268, 0)">
+      <rect width="122" height="42" class="pill-hard-bg" />
+      <text x="12" y="18" class="pill-label label-hard">HARD</text>
+      <text x="12" y="34" class="pill-val">2</text>
+    </g>
+  </g>
+  <g transform="translate(24, 172)">
+    <text x="0" y="0" class="lang-header">LANGUAGES</text>
+    <text x="0" y="18" class="lang-body">Java • C++ • Python • mysql</text>
+  </g>
+</svg>
