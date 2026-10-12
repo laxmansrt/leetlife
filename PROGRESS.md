@@ -3,13 +3,13 @@
 
 ## Overview
 
-- Problems Solved: 13
+- Problems Solved: 14
 - Easy: 4
-- Medium: 2
+- Medium: 3
 - Hard: 3
 - Languages: Java, C++, Python, SQL
-- Last Updated: 2026-10-12 17:31:05 UTC
-- Latest Solved: Unknown (Unknown)
+- Last Updated: 2026-10-12 17:33:24 UTC
+- Latest Solved: Longest Palindromic Substring (Medium)
 
 ## Progress
 | # | Problem | Difficulty | Languages | Platform |
@@ -19,14 +19,15 @@
 | 3 | Sqrtx | Easy | Java | LeetCode |
 | 4 | Two Sum | Easy | C++, Java | LeetCode |
 | 5 | Add Two Numbers | Medium | C++ | LeetCode |
-| 6 | Word Break | Medium | Java | LeetCode |
-| 7 | Maximal Rectangle | Hard | Java | LeetCode |
-| 8 | N Queens | Hard | Java | LeetCode |
-| 9 | Word Ladder | Hard | Java | LeetCode |
-| 10 | Basic | Unknown | C++, Java | GeeksforGeeks |
-| 11 | Unknown | Unknown | Java, Python | CodeChef |
-| 12 | Unknown | Unknown | Java | Codeforces |
-| 13 | Unknown | Unknown | Java, Python | HackerRank |
+| 6 | Longest Palindromic Substring | Medium | Java | Leetcode |
+| 7 | Word Break | Medium | Java | LeetCode |
+| 8 | Maximal Rectangle | Hard | Java | LeetCode |
+| 9 | N Queens | Hard | Java | LeetCode |
+| 10 | Word Ladder | Hard | Java | LeetCode |
+| 11 | Basic | Unknown | C++, Java | GeeksforGeeks |
+| 12 | Unknown | Unknown | Java, Python | CodeChef |
+| 13 | Unknown | Unknown | Java | Codeforces |
+| 14 | Unknown | Unknown | Java, Python | HackerRank |
 
 ## Platform
 

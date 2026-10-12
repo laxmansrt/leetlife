@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 220" width="440" height="220" role="img" aria-label="Fly2Git Coding Progress">
   <title>Fly2Git Coding Progress</title>
-  <desc>13 Problems Solved (Easy: 4, Medium: 2, Hard: 3)</desc>
+  <desc>14 Problems Solved (Easy: 4, Medium: 3, Hard: 3)</desc>
   <defs>
     <linearGradient id="titaniumBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0e131b" />
@@ -42,7 +42,7 @@
     <text x="75" y="0" class="title">CODING PROGRESS</text>
   </g>
   <g transform="translate(24, 68)">
-    <text x="0" y="0" class="stat-hero">13</text>
+    <text x="0" y="0" class="stat-hero">14</text>
     <text x="42" y="-4" class="stat-hero-label">Problems Solved</text>
   </g>
   <g transform="translate(24, 96)">
@@ -56,7 +56,7 @@
     <g transform="translate(134, 0)">
       <rect width="122" height="42" class="pill-med-bg" />
       <text x="12" y="18" class="pill-label label-med">MEDIUM</text>
-      <text x="12" y="34" class="pill-val">2</text>
+      <text x="12" y="34" class="pill-val">3</text>
     </g>
     <!-- Hard Pill -->
     <g transform="translate(268, 0)">
