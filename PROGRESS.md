@@ -8,8 +8,8 @@
 - Medium: 2
 - Hard: 3
 - Languages: Java, C++, Python, SQL
-- Last Updated: 2026-10-11 17:34:19 UTC
-- Latest Solved: N-Queens (Hard)
+- Last Updated: 2026-10-12 17:31:05 UTC
+- Latest Solved: Unknown (Unknown)
 
 ## Progress
 | # | Problem | Difficulty | Languages | Platform |
@@ -21,7 +21,7 @@
 | 5 | Add Two Numbers | Medium | C++ | LeetCode |
 | 6 | Word Break | Medium | Java | LeetCode |
 | 7 | Maximal Rectangle | Hard | Java | LeetCode |
-| 8 | N-Queens | Hard | Java | Leetcode |
+| 8 | N Queens | Hard | Java | LeetCode |
 | 9 | Word Ladder | Hard | Java | LeetCode |
 | 10 | Basic | Unknown | C++, Java | GeeksforGeeks |
 | 11 | Unknown | Unknown | Java, Python | CodeChef |
