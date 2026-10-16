@@ -8,8 +8,8 @@
 - Medium: 31
 - Hard: 5
 - Languages: Java, C++, Python, SQL
-- Last Updated: 2026-10-15 16:20:12 UTC
-- Latest Solved: Ransom Note (Easy)
+- Last Updated: 2026-10-16 15:42:40 UTC
+- Latest Solved: Add Two Numbers (Medium)
 
 ## Progress
 | # | Problem | Difficulty | Languages | Platform |
@@ -33,7 +33,7 @@
 | 17 | Pascals Triangle Ii | Easy | Java | LeetCode |
 | 18 | Plus One | Easy | Python | LeetCode |
 | 19 | Power Of Four | Easy | Java | LeetCode |
-| 20 | Ransom Note | Easy | Java | Leetcode |
+| 20 | Ransom Note | Easy | Java | LeetCode |
 | 21 | Remove Duplicates From Sorted List | Easy | Python | LeetCode |
 | 22 | Remove Element | Easy | C++ | LeetCode |
 | 23 | Reverse Bits | Easy | Java | LeetCode |
@@ -49,7 +49,7 @@
 | 33 | 3Sum | Medium | C++ | LeetCode |
 | 34 | 3Sum Closest | Medium | C++ | LeetCode |
 | 35 | 4Sum | Medium | Python | LeetCode |
-| 36 | Add Two Numbers | Medium | C++ | LeetCode |
+| 36 | Add Two Numbers | Medium | C++, Java | LeetCode |
 | 37 | Combination Sum | Medium | Python | LeetCode |
 | 38 | Combinations | Medium | Python | LeetCode |
 | 39 | Container With Most Water | Medium | Java | LeetCode |
