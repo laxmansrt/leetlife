@@ -8,8 +8,8 @@
 - Medium: 31
 - Hard: 5
 - Languages: Java, C++, Python, SQL
-- Last Updated: 2026-10-16 15:42:40 UTC
-- Latest Solved: Add Two Numbers (Medium)
+- Last Updated: 2026-10-18 17:47:37 UTC
+- Latest Solved: Two Sum (Easy)
 
 ## Progress
 | # | Problem | Difficulty | Languages | Platform |
