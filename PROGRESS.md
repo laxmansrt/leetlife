@@ -3,13 +3,13 @@
 
 ## Overview
 
-- Problems Solved: 73
+- Problems Solved: 74
 - Easy: 32
-- Medium: 32
+- Medium: 33
 - Hard: 5
 - Languages: Java, C++, Python, SQL
-- Last Updated: 2026-10-20 08:26:26 UTC
-- Latest Solved: Validate Binary Search Tree (Medium)
+- Last Updated: 2026-10-27 12:15:01 UTC
+- Latest Solved: Single Number II (Medium)
 
 ## Progress
 | # | Problem | Difficulty | Languages | Platform |
@@ -73,20 +73,21 @@
 | 57 | Recover Binary Search Tree | Medium | Java | LeetCode |
 | 58 | Reverse Integer | Medium | C++ | LeetCode |
 | 59 | Rotate List | Medium | Python | LeetCode |
-| 60 | String To Integer Atoi | Medium | C++ | LeetCode |
-| 61 | Subsets Ii | Medium | Python | LeetCode |
-| 62 | Validate Binary Search Tree | Medium | Java | Leetcode |
-| 63 | Word Break | Medium | Java | LeetCode |
-| 64 | Zigzag Conversion | Medium | Java | LeetCode |
-| 65 | Maximal Rectangle | Hard | Java | LeetCode |
-| 66 | N Queens | Hard | Java | LeetCode |
-| 67 | Regular Expression Matching | Hard | Java | LeetCode |
-| 68 | Reverse Nodes In K Group | Hard | Python | LeetCode |
-| 69 | Word Ladder | Hard | Java | LeetCode |
-| 70 | Basic | Unknown | C++, Java | GeeksforGeeks |
-| 71 | Unknown | Unknown | Java, Python | CodeChef |
-| 72 | Unknown | Unknown | Java | Codeforces |
-| 73 | Unknown | Unknown | Java, Python | HackerRank |
+| 60 | Single Number II | Medium | Java | Leetcode |
+| 61 | String To Integer Atoi | Medium | C++ | LeetCode |
+| 62 | Subsets Ii | Medium | Python | LeetCode |
+| 63 | Validate Binary Search Tree | Medium | Java | LeetCode |
+| 64 | Word Break | Medium | Java | LeetCode |
+| 65 | Zigzag Conversion | Medium | Java | LeetCode |
+| 66 | Maximal Rectangle | Hard | Java | LeetCode |
+| 67 | N Queens | Hard | Java | LeetCode |
+| 68 | Regular Expression Matching | Hard | Java | LeetCode |
+| 69 | Reverse Nodes In K Group | Hard | Python | LeetCode |
+| 70 | Word Ladder | Hard | Java | LeetCode |
+| 71 | Basic | Unknown | C++, Java | GeeksforGeeks |
+| 72 | Unknown | Unknown | Java, Python | CodeChef |
+| 73 | Unknown | Unknown | Java | Codeforces |
+| 74 | Unknown | Unknown | Java, Python | HackerRank |
 
 ## Platform
 
