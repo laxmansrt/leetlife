@@ -3,13 +3,13 @@
 
 ## Overview
 
-- Problems Solved: 76
+- Problems Solved: 77
 - Easy: 34
-- Medium: 33
+- Medium: 34
 - Hard: 5
 - Languages: Java, C++, Python, SQL
-- Last Updated: 2026-10-30 10:11:51 UTC
-- Latest Solved: Symmetric Tree (Easy)
+- Last Updated: 2026-11-11 08:28:20 UTC
+- Latest Solved: Sort Colors (Medium)
 
 ## Progress
 | # | Problem | Difficulty | Languages | Platform |
@@ -44,7 +44,7 @@
 | 28 | Search Insert Position | Easy | C++ | LeetCode |
 | 29 | Single Number | Easy | Java | LeetCode |
 | 30 | Sqrtx | Easy | Java | LeetCode |
-| 31 | Symmetric Tree | Easy | Java | Leetcode |
+| 31 | Symmetric Tree | Easy | Java | LeetCode |
 | 32 | Two Sum | Easy | C++, Java | LeetCode |
 | 33 | Valid Palindrome | Easy | Java | LeetCode |
 | 34 | Valid Parentheses | Easy | C++ | LeetCode |
@@ -76,20 +76,21 @@
 | 60 | Reverse Integer | Medium | C++ | LeetCode |
 | 61 | Rotate List | Medium | Python | LeetCode |
 | 62 | Single Number Ii | Medium | Java | LeetCode |
-| 63 | String To Integer Atoi | Medium | C++ | LeetCode |
-| 64 | Subsets Ii | Medium | Python | LeetCode |
-| 65 | Validate Binary Search Tree | Medium | Java | LeetCode |
-| 66 | Word Break | Medium | Java | LeetCode |
-| 67 | Zigzag Conversion | Medium | Java | LeetCode |
-| 68 | Maximal Rectangle | Hard | Java | LeetCode |
-| 69 | N Queens | Hard | Java | LeetCode |
-| 70 | Regular Expression Matching | Hard | Java | LeetCode |
-| 71 | Reverse Nodes In K Group | Hard | Python | LeetCode |
-| 72 | Word Ladder | Hard | Java | LeetCode |
-| 73 | Basic | Unknown | C++, Java | GeeksforGeeks |
-| 74 | Unknown | Unknown | Java, Python | CodeChef |
-| 75 | Unknown | Unknown | Java | Codeforces |
-| 76 | Unknown | Unknown | Java, Python | HackerRank |
+| 63 | Sort Colors | Medium | Java | Leetcode |
+| 64 | String To Integer Atoi | Medium | C++ | LeetCode |
+| 65 | Subsets Ii | Medium | Python | LeetCode |
+| 66 | Validate Binary Search Tree | Medium | Java | LeetCode |
+| 67 | Word Break | Medium | Java | LeetCode |
+| 68 | Zigzag Conversion | Medium | Java | LeetCode |
+| 69 | Maximal Rectangle | Hard | Java | LeetCode |
+| 70 | N Queens | Hard | Java | LeetCode |
+| 71 | Regular Expression Matching | Hard | Java | LeetCode |
+| 72 | Reverse Nodes In K Group | Hard | Python | LeetCode |
+| 73 | Word Ladder | Hard | Java | LeetCode |
+| 74 | Basic | Unknown | C++, Java | GeeksforGeeks |
+| 75 | Unknown | Unknown | Java, Python | CodeChef |
+| 76 | Unknown | Unknown | Java | Codeforces |
+| 77 | Unknown | Unknown | Java, Python | HackerRank |
 
 ## Platform
 
